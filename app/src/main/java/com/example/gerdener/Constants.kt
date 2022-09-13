@@ -10,5 +10,7 @@ const val MQTT_CLIENT_ID        = "STASIUKM"
 const val MQTT_USERNAME         = "STASIUKM"
 const val MQTT_PWD              = "1234"
 
-const val MQTT_TEST_TOPIC       = "test/topic"
+const val MQTT_FLOWER_STAND_TOPIC       = "Gardener/flowers/stand"
 const val MQTT_TEST_MSG         = "Hello!"
+
+const val SUBSCRIBE_DELAY        = 500
